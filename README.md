@@ -32,4 +32,10 @@ Inorder to find the tests you can go to your github repository and click on the 
 If the tests in the workflow created are successfully ran then a green checkmark✅ will appear to indicate that the tests were successful and check if the artifacts are uploaded.
 If the tests were not successfully ran then a red cross❌will appear and click on the red cross to see the error and correct it.
 
+#Github repository click on the link below⬇️
+⚠️**Note for Lecturer:**
+This project is on the 'master' branch instead of 'main'.
+To view the code, please switch to 'master' using the downdrop in Github.
+
+
 
