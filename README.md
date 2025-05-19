@@ -46,11 +46,9 @@ https://github.com/VCSTDN2024/imad5112-assignment-2-st10479733Vutlhari/blob/mast
 https://youtu.be/aukIykcQukY
 
 REFERENCE LIST DOCUMENT⬇️
-file:///C:/Users/veeon/Downloads/Document%2019.pdf
-
+https://advtechonline-my.sharepoint.com/:w:/g/personal/st10479733_vcconnect_edu_za/EddMz8wtut9Nr_1AQkk42asB3VyHio75PgtWh9oB213ZbQ?e=VaQ3PY
 
 #Checkout this code and interface of the app right below⬇️
-file:///C:/Users/veeon/Downloads/Document%2020.pdf
-
+https://advtechonline-my.sharepoint.com/:w:/g/personal/st10479733_vcconnect_edu_za/EX885Svmli5NuEPCjUoLuJ0Bh3etWdtFg6SmH37w6yI8rA?e=CORZeX
 
 
