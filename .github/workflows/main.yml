@@ -1,4 +1,6 @@
 name: Generated APK AAB (Upload - Create Artifact To Github Action)
+// original code by amirisback (Github: @amirisback)
+// modified for personal projects
 
 env:
   # The name of the main module repository
