@@ -39,7 +39,7 @@ class ScoreActivity : AppCompatActivity() {
 
 
             scoreTxt.text = "score: $score/ ${questions.size}"
-
+            //https://chatgpt.com
             if (score < 3) {
                 messageTxt.text = "Better luck next time"
 
@@ -67,12 +67,12 @@ class ScoreActivity : AppCompatActivity() {
 
 
         retryButton.setOnClickListener {
-            startActivity(Intent(this, FlashActivity2::class.java))
+            startActivity(Intent(this, FlashActivity2::class.java)) // Goes bact to the flas screen inorder for the user to retry
             finish()
         }
 
         exitButton.setOnClickListener {
-            finishAffinity()
+            finishAffinity()//exits the whole app
         }
 
 
