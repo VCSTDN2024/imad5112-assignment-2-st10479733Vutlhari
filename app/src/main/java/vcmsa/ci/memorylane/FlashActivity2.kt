@@ -31,7 +31,7 @@ class FlashActivity2 : AppCompatActivity() {
 
     )
 
-    private val answers = booleanArrayOf(
+    private val answers = booleanArrayOf( //stores multiple true/false in one place
         false,
         false,
         true,
@@ -101,8 +101,9 @@ class FlashActivity2 : AppCompatActivity() {
                 nextButton.isEnabled = true
             }
         }
+        //https://chatgpt.com
         nextButton.setOnClickListener {
-            currentQuestionIndex++
+            currentQuestionIndex++ 
             if (currentQuestionIndex < questions.size) {
 
                 questionTxt.text = questions[currentQuestionIndex]
@@ -112,8 +113,8 @@ class FlashActivity2 : AppCompatActivity() {
                 falseButton.isEnabled = true
                 nextButton.isEnabled = false
             } else {
-                val intent = Intent(this, ScoreActivity::class.java)
-                intent.putExtra("questions", questions)
+                val intent = Intent(this, ScoreActivity::class.java) //https://chatgpt.com
+                intent.putExtra("questions", questions) //intent pass data from one activity to another
                 intent.putExtra("score", correctAnswer)
                 intent.putExtra("answers", answers)
                 intent.putExtra("userAnswers", userAnswers)
