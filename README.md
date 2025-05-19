@@ -43,7 +43,7 @@ https://github.com/VCSTDN2024/imad5112-assignment-2-st10479733Vutlhari/tree/mast
 https://github.com/VCSTDN2024/imad5112-assignment-2-st10479733Vutlhari/blob/master/.github/workflows/main.yml
 
 #To see a more detailed explanation of the MemoryLane app and how it functions click on the link below⬇️
-https://youtu.be/aukIykcQukY
+https://youtu.be/66yEqXk-fHI
 
 REFERENCE LIST DOCUMENT⬇️
 https://advtechonline-my.sharepoint.com/:w:/g/personal/st10479733_vcconnect_edu_za/EddMz8wtut9Nr_1AQkk42asB3VyHio75PgtWh9oB213ZbQ?e=VaQ3PY
