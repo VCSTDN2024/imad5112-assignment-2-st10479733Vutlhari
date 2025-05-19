@@ -23,7 +23,8 @@ class MainActivity : AppCompatActivity() {
         startButton = findViewById(R.id.startButton)
 
         startButton.setOnClickListener {
-            startActivity(Intent(this,FlashActivity2::class.java))
+            //moves to the next screen
+            startActivity(Intent(this,FlashActivity2::class.java)) // Generated from my previous tamabuddy
         }
 
         }
