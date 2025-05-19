@@ -41,4 +41,6 @@ https://github.com/VCSTDN2024/imad5112-assignment-2-st10479733Vutlhari/tree/mast
 
 
 #To check out my github workflow,code and artifacts click on the link below⬇️
+https://github.com/VCSTDN2024/imad5112-assignment-2-st10479733Vutlhari/blob/master/.github/workflows/main.yml
+
 
