@@ -45,10 +45,93 @@ https://github.com/VCSTDN2024/imad5112-assignment-2-st10479733Vutlhari/blob/mast
 #To see a more detailed explanation of the MemoryLane app and how it functions click on the link below⬇️
 https://youtu.be/66yEqXk-fHI
 
-REFERENCE LIST DOCUMENT⬇️
-https://advtechonline-my.sharepoint.com/:w:/g/personal/st10479733_vcconnect_edu_za/EddMz8wtut9Nr_1AQkk42asB3VyHio75PgtWh9oB213ZbQ?e=VaQ3PY
-
 #Checkout this code and interface of the app right below⬇️
 https://advtechonline-my.sharepoint.com/:w:/g/personal/st10479733_vcconnect_edu_za/EX885Svmli5NuEPCjUoLuJ0Bh3etWdtFg6SmH37w6yI8rA?e=CORZeX
 
+REFERENCE LIST 
 
+Content Editor., 2025. What is Heuristic: LLMS Explained. 
+
+[Online] 
+
+Available at: 
+
+https://www.chatgptguide.ai/2024/03/02/what-is-heuristic-llms-explained/ 
+
+[Accessed 5 May 2025] 
+
+Faisal A.,2024. 
+
+https://github.com/amirisback/automated-build-android-app-with-github-action 
+
+[Accessed 10 May] 
+
+SeekPNG., Brain-Persuasion: The Science of Selling 
+
+[Online] 
+
+Available at: 
+
+https://www.seekpng.com/ipng/u2q8a9w7i1r5o0q8_brain-persuasion-the-science-of-selling/ 
+
+[Accessed 5 May 2025] 
+
+SonneOn., Man’s head withe education icons. 
+
+[Online] 
+
+Available at: 
+
+https://depositphotos.com/similar-vectors/30464903.html 
+
+[Accessed 5 May 2025] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ OpenAI. 2024. Chat-GPT (Version 4). [Large Language model]. 
+
+ Available at:  
+
+https://chatgpt.com/ 
+
+[Accessed 8 May 2025] 
+
+ Disclosure of AI usage in my Assessment 
+
+ChatGPT 
+
+I used AI to help fix and correct my code. 
+
+Picture 
+
+ 
+
+Picture 
+
+Picture 
+
+ 
+
+Picture 
+
+ 
+
+Picture 
